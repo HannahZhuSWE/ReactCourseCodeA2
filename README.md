@@ -1,6 +1,7 @@
 ## Summary of Assignment
 When you type in characters into the input field the characters appear in boxes at the bottom\
 When you click on a box it's removed and the input is updated to reflect that it has been removed too\
+Also tells you how many characters your input is and whether it's too short or too long (if it's less than 5 chars it's too short, if it's more than 5 chars it's too long)
 
 ## Assignment description
 
